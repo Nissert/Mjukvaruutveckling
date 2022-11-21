@@ -26,7 +26,7 @@ public class A1 {
 
 		employee1.sethoursWorked(hoursWorked);
 
-		myScanner.close();
+		// myScanner.close();
 
 		System.out.println("--------------------");
 
